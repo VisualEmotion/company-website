@@ -1,4 +1,18 @@
 body{
-	
+	background-color: #FFFCF5;
+	font-family: 'Open Sans', sans-serif;
+	height:100vh;
+	width:100vw;
+	color:#66625B;
 }
 
+.landing-page{
+	height:100vh;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.btn-box{
+	padding:1.2rem;
+}
